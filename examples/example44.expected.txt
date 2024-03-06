@@ -1,0 +1,1 @@
+lparen("(") real("3") times("*") lparen("(") variable("x") pow("^") real("2") plus("+") real("5") rparen(")") divides("/") lparen("(") real("2") times("*") variable("y") rparen(")") rparen(")") minus("-") real("8") times("*") variable("z") divides("/") lparen("(") real("2.5") pow("^") real("3") rparen(")") 

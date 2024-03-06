@@ -1,0 +1,1 @@
+lparen("(") real("2") pow("^") real("3") rparen(")") pow("^") real("4") 

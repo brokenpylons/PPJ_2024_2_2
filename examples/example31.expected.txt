@@ -1,0 +1,1 @@
+lparen("(") real("60") plus("+") real("89") rparen(")") divides("/") real("2") pow("^") real("2") 
