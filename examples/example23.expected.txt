@@ -1,1 +1,1 @@
-real("1.1") 
+define("var") variable("printer") assign("=") real("67") term(";") define("var") variable("for2") assign("=") real("2") term(";") print("print") lparen("(") variable("printer") times("*") variable("for2") rparen(")") term(";") 

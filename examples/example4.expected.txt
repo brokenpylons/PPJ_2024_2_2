@@ -1,1 +1,1 @@
-real("1") plus("+") real("1") minus("-") real("1") 
+define("var") variable("a") assign("=") real("1") term(";") define("var") variable("a") assign("=") real("2") term(";") print("print") lparen("(") variable("a") rparen(")") term(";") 

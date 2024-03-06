@@ -1,1 +1,0 @@
-real("2") pow("^") real("3") pow("^") real("4") 

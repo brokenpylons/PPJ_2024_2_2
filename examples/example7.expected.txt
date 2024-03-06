@@ -1,1 +1,1 @@
-real("8") divides("/") real("2") divides("/") real("2") 
+for("for") lparen("(") define("var") variable("i") assign("=") real("0") to(",") real("5") rparen(")") begin("{") print("print") lparen("(") variable("i") rparen(")") term(";") end("}") 

@@ -1,1 +1,1 @@
-real("8") integer-divides("//") real("2") integer-divides("//") real("2") 
+define("var") variable("n") assign("=") real("5") term(";") define("var") variable("result") assign("=") real("1") term(";") for("for") lparen("(") define("var") variable("i") assign("=") real("1") to(",") variable("n") rparen(")") begin("{") variable("result") assign("=") variable("result") times("*") variable("i") term(";") end("}") print("print") lparen("(") variable("result") rparen(")") term(";") 

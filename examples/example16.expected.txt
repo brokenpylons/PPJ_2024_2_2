@@ -1,1 +1,1 @@
-real("2") pow("^") real("3") 
+define("var") variable("n") assign("=") real("0") term(";") for("for") lparen("(") define("var") variable("i") assign("=") real("1") to(",") real("5") rparen(")") begin("{") print("print") lparen("(") variable("n") rparen(")") term(";") variable("n") assign("=") variable("n") plus("+") real("2") term(";") end("}") 

@@ -1,1 +1,1 @@
-real("8") divides("/") real("2") divides("/") real("2") divides("/") real("2") 
+define("var") variable("sum") assign("=") real("0") term(";") for("for") lparen("(") define("var") variable("i") assign("=") real("0") to(",") real("5") rparen(")") begin("{") variable("sum") assign("=") variable("sum") plus("+") variable("i") term(";") end("}") print("print") lparen("(") variable("sum") rparen(")") term(";") 

@@ -1,1 +1,1 @@
-real("5") integer-divides("//") real("2") 
+define("var") variable("n") assign("=") real("5") term(";") define("var") variable("sum") assign("=") real("0") term(";") for("for") lparen("(") define("var") variable("i") assign("=") real("1") to(",") variable("n") rparen(")") begin("{") variable("sum") assign("=") variable("sum") plus("+") variable("i") times("*") variable("i") term(";") end("}") print("print") lparen("(") variable("sum") rparen(")") term(";") 

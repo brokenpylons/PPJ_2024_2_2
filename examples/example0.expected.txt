@@ -1,1 +1,1 @@
-real("1") 
+define("var") variable("a") assign("=") real("1") term(";") 

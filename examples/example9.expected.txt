@@ -1,1 +1,1 @@
-real("2") plus("+") real("2") divides("/") real("2") 
+define("var") variable("prod") assign("=") real("1") term(";") for("for") lparen("(") define("var") variable("i") assign("=") real("0") to(",") real("5") rparen(")") begin("{") print("print") lparen("(") variable("prod") rparen(")") term(";") variable("prod") assign("=") real("2") times("*") variable("prod") term(";") end("}") 

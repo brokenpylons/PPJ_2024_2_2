@@ -1,1 +1,1 @@
-lparen("(") real("2") pow("^") real("3") rparen(")") pow("^") real("4") 
+for("for") lparen("(") define("var") variable("i") assign("=") real("0") to(",") real("3") rparen(")") begin("{") for("for") lparen("(") define("var") variable("j") assign("=") real("0") to(",") real("3") rparen(")") begin("{") print("print") lparen("(") variable("i") plus("+") variable("j") rparen(")") term(";") end("}") end("}") 

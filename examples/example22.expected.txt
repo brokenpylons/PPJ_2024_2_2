@@ -1,1 +1,1 @@
-real("32768") 
+define("var") variable("va") assign("=") real("3") term(";") define("var") variable("vb") assign("=") real("6") term(";") print("print") lparen("(") variable("va") pow("^") variable("vb") rparen(")") term(";") 

@@ -1,1 +1,1 @@
-real("2.0") 
+define("var") variable("p") assign("=") real("1") term(";") define("var") variable("pr") assign("=") real("1") term(";") define("var") variable("pri") assign("=") real("1") term(";") define("var") variable("prin") assign("=") real("1") term(";") define("var") variable("print1") assign("=") real("1") term(";") 

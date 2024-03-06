@@ -1,1 +1,1 @@
-real("1") plus("+") real("1") 
+print("print") lparen("(") real("1") rparen(")") term(";") 

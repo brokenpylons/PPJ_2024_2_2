@@ -1,1 +1,1 @@
-real("1") minus("-") real("1") minus("-") real("1") 
+print("print") lparen("(") real("1") rparen(")") term(";") print("print") lparen("(") real("2") rparen(")") term(";") 

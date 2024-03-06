@@ -1,1 +1,1 @@
-real("456") 
+define("var") variable("n") assign("=") real("10") term(";") define("var") variable("factorial") assign("=") real("1") term(";") for("for") lparen("(") define("var") variable("i") assign("=") real("1") to(",") variable("factorial") minus("-") real("1") rparen(")") begin("{") variable("factorial") assign("=") variable("factorial") times("*") variable("i") term(";") end("}") print("print") lparen("(") variable("factorial") rparen(")") term(";") 
